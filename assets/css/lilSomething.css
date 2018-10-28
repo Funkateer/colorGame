@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(105, 175, 152);
+    text-align: center;
+    margin: 0% 0%
+}
+.howTo{
+    background-color: rgb(105, 175, 152);
+    text-align: center;
+    font-size: 1.1em;
+    font-family: Chalkduster, fantasy;
+    width: 46%;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+.colors{
+font-family: 'Courier New', Courier, monospace;
+font-weight: bold;
+margin-top: 16px
+}
+h3{
+    margin: 0 auto
+}
