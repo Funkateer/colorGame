@@ -3,7 +3,6 @@ var green_Color = document.getElementById("greenColor");
 var blue_Color = document.getElementById("blueColor");
 var inPuts = document.getElementsByTagName("input");
 var RGBcolors = ""
-
 var Red = 0;
 var Green = 0;
 var Blue = 0;

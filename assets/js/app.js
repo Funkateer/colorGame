@@ -95,7 +95,6 @@ function randomColor(){
     return "rgb(" + r + ", "+ g + ", "+ b + ")"
 };
 
-
 // This function takes the random numbers generate and loops it in an 
 // array created inside the function aka generate colors
 function GenerateRandomColor(num){
