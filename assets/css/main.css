@@ -1,8 +1,9 @@
-body{
+body {
     background-color: #232323;
     margin: 0; 
     font-family: "Montserrat","Avenir";
 }
+
 h1 {
     color: white;
     text-align: center;
@@ -13,16 +14,19 @@ h1 {
     font-weight: normal;
     text-transform: uppercase;
 }
-#container{
+
+#container {
     max-width: 600px;
     margin: 25px auto ; 
 }
-#stripe{
+
+#stripe {
     background-color: white;
     height: 30px;
     text-align: center;
 }
-.square{
+
+.square {
     width: 30%;
     background: purple;
     padding-bottom: 30%;
@@ -31,14 +35,17 @@ h1 {
     border-radius: 10%;
     transition: background-color 0.5s;
 }
-.selected{
+
+.selected {
     color: white;
     background: steelblue;
 }
-#colorDisplay{
+
+#colorDisplay {
     font-size: 200%;
 }
-button{
+
+button {
     border: none;
     background: none;
     text-transform: uppercase ;
@@ -49,24 +56,28 @@ button{
     font-size: inherit;
     transition:all 0.3s;
 }
-#messageDisplay{
+
+#messageDisplay {
     display: inline-block;
     width: 10%;
     font-family: "Montserrat","Avenir"; 
     text-transform: uppercase;
     font-weight: 500 ;  
 }
-#spaceSpan{
+
+#spaceSpan {
     width: 30px;
     font-family: "Montserrat","Avenir"; 
     display: inline-block;
     text-transform: lowercase;
     color: steelblue;
 }
-a{
+
+a {
     color: steelblue;
     text-transform: lowercase;
 }
+
 button:hover a {
     color: white;
     background: steelblue;
