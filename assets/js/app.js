@@ -20,8 +20,8 @@ for(var i = 0 ; i < modeButton.length ; i++){
         resett();
     });
 }
- function resett(){
-      // generate new colors
+function resett(){
+    // generate new colors
     colors = GenerateRandomColor(level);
     // pick new winning color 
     pickedColor = pickColor();
@@ -43,7 +43,7 @@ for(var i = 0 ; i < modeButton.length ; i++){
             squares[i].style.display = "none"
         }
     }
- }
+};
 
 // RESET
 resetButton.addEventListener("click", function(){ 
