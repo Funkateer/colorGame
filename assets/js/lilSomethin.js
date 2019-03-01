@@ -17,7 +17,4 @@ for(var i = 0 ; i < inPuts.length ; i++){
         var RGBcolors = RGBsec.toString()
         document.body.style.backgroundColor = RGBcolors;
     });
-};
-
-
-
+}
