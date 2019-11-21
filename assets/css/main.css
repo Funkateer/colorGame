@@ -113,3 +113,21 @@ button:hover a {
 	text-align: center;
 	font-size: 1.3em;
 }
+
+@media all and (max-width: 720px) {
+	h1{
+		font-size: 1em;
+	}
+
+	button{
+		font-size: 10px;
+	}
+
+	a{
+		display: inline-block;
+	}
+
+	#messageDisplay {
+		width: auto;
+	}
+}
