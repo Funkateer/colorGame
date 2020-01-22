@@ -7,7 +7,8 @@ A vanilla Javascript game where you guess the color of random RGB value choosing
 
 
 ## Features
-Game with 2 levels
+- Game with 2 levels
+- an extra page with 3 inputs to try out RBG parameters
 
 ## Live Demo
 To see the app in action, go to (https://funkateer.github.io/colorGame)
@@ -18,7 +19,6 @@ To see the app in action, go to (https://funkateer.github.io/colorGame)
 HTML5
 Javascript
 ```
-
 
 ## Contribute
 1. Fork it (<https://github.com/Funkateer/colorGame.git>)
@@ -39,7 +39,7 @@ Project Link: https://github.com/Funkateer/colorGame
 
 
 ## Contact
-Alaeddin Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
+Alà Eddin Abugrara Abugrara - [website](http://www.alabugrara.com) - [@twitter](https://twitter.com/twitter_handle) - [Github](https://github.com/Funkateer) - [Linked-in](https://www.linkedin.com/in/al%C3%A0-eddin-abugrara-214ba5115/)
 
 
 <!-- Markdown links & imgs  -->
