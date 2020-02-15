@@ -3,7 +3,7 @@ A vanilla Javascript game where you guess the color of random RGB value choosing
 
 
 ## Screenshots
-![screenshot](https://alabugrara.com/img/colorGame-poster.png)
+![screenshot](https://alabugrara.com/img/poster-colorGame.png)
 
 
 ## Features
